@@ -12,15 +12,15 @@ Fazer curadoria de um grupo do Facebook com mais de 12.000 membros e 3000 public
 
 Os canais do Slack permitem uma experiência mais personalizada e com menor information overload. Tu decides e tens maior controlo sobre o tipo de informação que queres receber. Para além disso, tens maior autonomia e não tens de esperar que alguém aprove a tua publicação. O valor acrescentado:
 
-##🎟 Liga-te a novas pessoas
+## 🎟 Liga-te a novas pessoas
 
 Podes conhecer pessoas mais facilmente e estar a par de eventos e novidades na tua região ao juntares-te a canais locais como **#porto** ou **#berlin** (para quem vive fora de Portugal).
 
-##🧢 Encontra a tua tribo
+## 🧢 Encontra a tua tribo
 
 Se estás a fundar a tua startup podes juntar-te a pessoas que estejam a passar por uma experiência semelhante em **#startupschool** ou interagir e aprender com pessoas a trabalhar no teu vertical em canais como **#fintech**.
 
-##👨‍🚀 Dá o salto na tua carreira
+## 👨‍🚀 Dá o salto na tua carreira
 
 As integrações e automatizações do Slack vão permitir que subscrevas a canais que te vão por a par de novas oportunidades de emprego nas startups com maior crescimento dentro e fora de Portugal.
 
