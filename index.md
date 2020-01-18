@@ -24,4 +24,4 @@ Se estás a fundar a tua startup podes juntar-te a pessoas que estejam a passar 
 
 As integrações e automatizações do Slack vão permitir que subscrevas a canais que te vão por a par de novas oportunidades de emprego nas startups com maior crescimento dentro e fora de Portugal.
 
-[Pede o teu convite aqui.](https://airtable.com/shrNr1fPzeGAABbk0)
+[**Pede o teu convite aqui.**](https://airtable.com/shrNr1fPzeGAABbk0)
