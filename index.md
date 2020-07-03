@@ -2,20 +2,10 @@
 layout: default
 ---
 
-Com o objetivo de criar mais oportunidades de networking, partilha de conhecimento e acesso a noticias e eventos vamos expandir a comunidade da **Startup Portugal (12K+ membros no Facebook)** para o Slack. A minha esperança é que a versatilidade do Slack aumente a qualidade das nossas conversas/discussões e convide outras startups e organizações a colaborar em vários aspetos.
+We’re a group of people who came together with the goal of creating a startup scene that’s more connected, inclusive and wise.
 
-📮 Inicialmente, o canal do Slack vai ser contido e limitado a convite para poder experimentar e melhorar a dinâmica. Podes **pedir o teu convite** e juntar-se à lista de espera **através do formulário partilhado**.
+In our Slack Community you can find a curated feed of events, news, job listings and startup content updated every day by people who work on them. 
 
-## **🎟 Liga-te a novas pessoas**
+If you want to get to know or keep up to date with the ever growing startup scene or get settled in Portugal, 351 might be a good first door for you! Our arms are open and every member is reachable without a middle person.
 
-Podes conhecer pessoas mais facilmente e estar a par de eventos e novidades na tua região ao juntares-te a canais locais como **#porto** ou **#berlin** (para quem vive fora de Portugal).
-
-## **🧢 Encontra a tua tribo**
-
-Se estás a fundar a tua startup podes juntar-te a pessoas que estejam a passar por uma experiência semelhante em **#startupschool** ou interagir e aprender com pessoas a trabalhar no teu vertical em canais como **#fintech**.
-
-## **👨‍🚀 Dá o salto na tua carreira**
-
-As integrações e automatizações do Slack vão permitir que subscrevas a canais que te vão por a par de novas oportunidades de emprego nas startups com maior crescimento dentro e fora de Portugal.
-
-[**Pede o teu convite aqui.**](https://airtable.com/shrNr1fPzeGAABbk0)
+To join our community you have to be invited because we want to make sure 351 remains a safe space for everyone involved. If you’re someone who believes in building long-term relationships instead of handing out business cards, 351 is for you. [**Ask for your invite here.**](https://airtable.com/shrNr1fPzeGAABbk0)
